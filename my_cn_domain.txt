@@ -1,0 +1,15 @@
+# 这是自定义大陆常用域名规则
+baidu
+qq
+taobao
+jd
+bilibili
+warframe
+bing
+cursor
+kurogames
+163
+doubao
+tbox
+deepseek
+kimi
